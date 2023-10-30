@@ -1,0 +1,22 @@
+RJ45  B  colour code->
+
+1 -> white orange
+2 -> orange
+3 -> white green
+4 -> blue
+5 -> white blue
+6 -> green
+7 -> white brown
+8 -> brown
+
+
+RJ45  A  colour code->
+
+1 -> white green
+2 -> green
+3 -> white orange
+4 -> blue
+5 -> white blue
+6 -> orange
+7 -> white brown
+8 -> brown
